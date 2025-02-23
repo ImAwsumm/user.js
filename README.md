@@ -1,3 +1,5 @@
+The bat file is only executable on windows computers (only bad operating systems)
+
 ### 🟪  user.js
 A `user.js` is a configuration file that can control Firefox settings - for a more technical breakdown and explanation, you can read more in the [wiki](https://github.com/arkenfox/user.js/wiki/2.1-User.js)
 
