@@ -5,9 +5,7 @@ REM ## arkenfox user.js updater for Windows
 REM ## author: @claustromaniac
 REM ## version: 4.20
 REM ## instructions: https://github.com/arkenfox/user.js/wiki/5.1-Updater-[Options]#-windows
-
 SET v=4.19
-
 VERIFY ON
 CD /D "%~dp0"
 SET _myname=%~n0
